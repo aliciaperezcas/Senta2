@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://aliciaperezcas.github.io/Senta2/</title>
+  <link>https://aliciaperezcas.github.io/Senta2/</link>
+
+<item>
+     <link>https://aliciaperezcas.github.io/Senta2/</link>
+     <title>Senta2 </title>
+     <description>Senta2 es la web de venta de mobiliario sostenible y moderna que revolucionará tu manera de sentarte</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://aliciaperezcas.github.io/Senta2/index.html</link>
+     <title>Senta2 </title>
+     <description>Senta2 es la web de venta de mobiliario sostenible y moderna que revolucionará tu manera de sentarte</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://aliciaperezcas.github.io/Senta2/about-us.html</link>
+     <title>Senta2</title>
+     <description>Senta2 es la web de venta de mobiliario sostenible y moderna que revolucionará tu manera de sentarte</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://aliciaperezcas.github.io/Senta2/contact.html</link>
+     <title>Senta2</title>
+     <description>Senta2 es la web de venta de mobiliario sostenible y moderna que revolucionará tu manera de sentarte</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
